@@ -1,0 +1,22 @@
+{
+  "name": "31-3-node-scripts",
+  "version": "1.0.0",
+  "description": "Exercises for SB Unit 31.3",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreamartz/sb-31-3-Node-Scripts-exercises.git"
+  },
+  "author": "Andrea Martz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreamartz/sb-31-3-Node-Scripts-exercises/issues"
+  },
+  "homepage": "https://github.com/andreamartz/sb-31-3-Node-Scripts-exercises#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
